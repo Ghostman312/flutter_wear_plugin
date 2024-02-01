@@ -1,3 +1,7 @@
+# 1.2.0
+
+- Upgrade Gradle plugins and dependencies to latest versions.
+
 # 1.1.0
 
 - Fix issue with non-windows builds breaking.
